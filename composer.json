@@ -1,5 +1,11 @@
 {
+    "name": "dependabot/php-example",
     "require": {
         "guzzlehttp/promises": "1.2.0"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
     }
 }
